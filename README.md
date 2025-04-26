@@ -1,2 +1,2 @@
-# blog
-My privat blog
+# Blog
+This is my private blog about privacy and tech stuff. 
